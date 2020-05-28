@@ -1,0 +1,10 @@
+---
+name: "redis-fingerprint-storage"
+github: "jenkinsci/redis-fingerprint-storage-plugin"
+paths:
+- "io/jenkins/plugins/redis-fingerprint-storage"
+developers:
+- "stellargo"
+- "oleg_nenashev"
+- "afalko"
+- "mikecirioli"
